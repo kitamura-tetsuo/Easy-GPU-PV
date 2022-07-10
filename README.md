@@ -1,3 +1,6 @@
+wmic UserAccount where Name='kitam' set PasswordExpires=False
+
+
 # Easy-GPU-PV
 A work-in-progress project dedicated to making GPU Paravirtualization on Windows Hyper-V easier!  
 
