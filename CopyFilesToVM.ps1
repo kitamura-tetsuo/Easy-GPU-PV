@@ -15,7 +15,7 @@
     Team_ID = ""
     Key = ""
     Username = "kitam"
-    Password = "CoolestPassword!"
+    Password = "password"
     Autologon = "true"
 }
 
